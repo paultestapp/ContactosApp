@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contactos App</string>
+    <string name="activity_main">Datos del contacto</string>
+    <string name="activity_confirmacion">Contacto</string>
+
+    <string name="tab_nombres">NOMBRES</string>
+    <string name="tab_nacimiento">NACIMIENTO</string>
+    <string name="tab_telefono">TELEFONO</string>
+    <string name="tab_email">EMAIL</string>
+    <string name="tab_descripcion">DESCRIPCION</string>
+
+    <string name="hint_nombres">Nombres completos</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_descripcion">Descripción contacto</string>
+    <string name="btn_label_next">Siguiente</string>
+    <string name="date_format">YYYY-MM-DD</string>
+    <string name="label_titulo_confirmar">Confirmar Datos</string>
+    <string name="btn_label_edit">Editar Datos</string>
+    <string name="label_nacimiento">Fecha nacimiento:</string>
+    <string name="label_telefono">Tel:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_descripcion">Descripción:</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="layout_padding">10dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <dimen name="m_1">5sp</dimen>
+    <dimen name="m_2">10sp</dimen>
+    <dimen name="m_3">25sp</dimen>
+
+    <dimen name="p_1">5sp</dimen>
+    <dimen name="p_2">10sp</dimen>
+    <dimen name="p_3">25sp</dimen>
+
+    <dimen name="text_title">22sp</dimen>
+    <dimen name="text_description">18sp</dimen>
+
+    <dimen name="text_input">15sp</dimen>
+    <dimen name="text_button">15sp</dimen>
+
+</resources>
